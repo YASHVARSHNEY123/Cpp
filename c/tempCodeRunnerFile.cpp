@@ -1,0 +1,1 @@
+int Arr[ArrLen[i]]={0};
